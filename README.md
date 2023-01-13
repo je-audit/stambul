@@ -1,5 +1,4 @@
-# stambul
-# directory 
+# Stambul
 - Link to analysis of findings
 - Filtering with word : "capacitación"
 - Finding of trainning --> previous issues 
